@@ -15,14 +15,14 @@ namespace ADLERE2.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Maths()
         {
             ViewData["Message"] = "Faire des Maths.";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Formulaire()
         {
             ViewData["Message"] = "Donnez votre avis, j'vous jure ça m'intéresse !";
 
