@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADLERE2\\ADLERE2.csproj",
+      "projectUniqueName": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADL2\\ADLERE2\\ADLERE2.csproj",
       "projectName": "ADLERE2",
-      "projectPath": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADLERE2\\ADLERE2.csproj",
+      "projectPath": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADL2\\ADLERE2\\ADLERE2.csproj",
       "packagesPath": "C:\\Users\\diane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADLERE2\\obj\\",
+      "outputPath": "C:\\Users\\diane\\Source\\Repos\\ADLERE2\\ADL2\\ADLERE2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
